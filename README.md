@@ -8,6 +8,11 @@
 
 ### Project overview
 
+
+<img width="755" height="435" alt="Screenshot 2025-09-20 194855" src="https://github.com/user-attachments/assets/e14f062d-225d-4133-9372-fcc13596f787" />
+
+
+
 This data analysis project is to give insight on stock distribution and development for the year 2025 for the month of june. by analyzing various aspect of this data set we tend to identify trend,profit yielde ,dividen income and loss.
 
 ### Data Sources
