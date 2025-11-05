@@ -9,8 +9,7 @@
 ### Project overview 📽️
 ---
 
-<img width="755" height="435" alt="Screenshot 2025-09-20 194855" src="https://github.com/user-attachments/assets/e14f062d-225d-4133-9372-fcc13596f787" />
-<img width="761" height="506" alt="Screenshot 2025-09-20 214433" src="https://github.com/user-attachments/assets/123e7076-0545-47d8-9bf8-285deedea32e" />
+<img width="928" height="551" alt="Screenshot 2025-11-05 123812" src="https://github.com/user-attachments/assets/1c6a1a7a-d788-4de0-b0a8-46285c5bc0a1" />
 
 
 
